@@ -12,4 +12,4 @@ Some implementations may find it convenient to divide a single write action on a
 
 Implementations of the Java Virtual Machine are encouraged to avoid splitting 64-bit values where possible. Programmers are encouraged to declare shared 64-bit values as volatile or synchronize their programs correctly to avoid possible complications.
 
-from. https://docs.oracle.com/javase/specs/jls/se7/html/jls-17.html#jls-17.7
+from. https://docs.oracle.com/javase/specs/jls/se7/html/jls-17.html#jls-17.7ㅋ
